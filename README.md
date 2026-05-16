@@ -7,7 +7,7 @@
 <br>
 
 <p align="left">
-  <a href="https://www.buymeacoffee.com/jbprojectstudio" target="_blank">
+  <a href="https://www.buymeacoffee.com/jbprojectstudio">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me a Coffee" width="150">
   </a>
 </p>

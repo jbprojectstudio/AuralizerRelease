@@ -6,7 +6,7 @@
 ![Price](https://img.shields.io/badge/Price-Free-brightgreen?style=for-the-badge)
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://www.buymeacoffee.com/jbprojectstudio" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me a Coffee" width="150">
   </a>

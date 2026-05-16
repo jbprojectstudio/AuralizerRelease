@@ -4,7 +4,9 @@
 ![Platform Support](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-darkgrey?style=for-the-badge&logo=windows&logoColor=white)
 ![Formats](https://img.shields.io/badge/Formats-VST3%20%7C%20AU-blue?style=for-the-badge)
 ![Price](https://img.shields.io/badge/Price-Free-brightgreen?style=for-the-badge)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=flat-square&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/jbprojectstudio)
+<br>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/jbprojectstudio)
 ---
 
 ## 📸 Screenshot

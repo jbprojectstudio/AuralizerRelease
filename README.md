@@ -6,7 +6,11 @@
 ![Price](https://img.shields.io/badge/Price-Free-brightgreen?style=for-the-badge)
 <br>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/jbprojectstudio)
+<p align="center">
+  <a href="https://www.buymeacoffee.com/jbprojectstudio" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me a Coffee" width="150">
+  </a>
+</p>
 ---
 
 ## 📸 Screenshot
